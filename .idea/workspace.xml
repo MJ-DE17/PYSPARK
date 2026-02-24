@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cb5b409e-5130-410c-aeb7-fe094dbef42a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/transformation_actions/count_num_studs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/transformation_actions/filter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/transformation_actions/group_dept.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/transformation_actions/new_column.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/transformation_actions/select_name.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataFrames/df_one.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataFrames/df_one.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataFrames/creation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rdd/basci_opperations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rdd/file1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rdd/creation.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/rdd/creation.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,11 +41,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.basci_opperations.executor": "Run",
     "Python.count_num_studs.executor": "Run",
+    "Python.creation.executor": "Run",
     "Python.demo.executor": "Run",
     "Python.demoo_ui.executor": "Run",
     "Python.df_one.executor": "Run",
     "Python.filter.executor": "Run",
+    "Python.group_dept.executor": "Run",
     "Python.main.executor": "Run",
     "Python.new_column.executor": "Run",
     "Python.select.executor": "Run",
