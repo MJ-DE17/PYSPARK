@@ -14,4 +14,4 @@ data = [
 df = spark.createDataFrame(data , ["Name" , "Age"])
 
 df.show()
-df.filter(df.Age > 22).show()
+df.filter(df.Age > 22   ).show()
