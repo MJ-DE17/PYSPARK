@@ -5,11 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cb5b409e-5130-410c-aeb7-fe094dbef42a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DataFrames/creation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rdd/basci_opperations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rdd/file1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataFrames/SQL_DF.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataFrames/all_df.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataFrames/combined.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataFrames/filter_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataFrames/grp_by.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataFrames/practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataFrames/rename_drop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataFrames/with_col.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/rdd/creation.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/rdd/creation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataFrames/creation.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataFrames/creation.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,20 +47,27 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.basci_opperations.executor": "Run",
+    "Python.combined.executor": "Run",
     "Python.count_num_studs.executor": "Run",
     "Python.creation.executor": "Run",
     "Python.demo.executor": "Run",
     "Python.demoo_ui.executor": "Run",
     "Python.df_one.executor": "Run",
     "Python.filter.executor": "Run",
+    "Python.filter_practice.executor": "Run",
     "Python.group_dept.executor": "Run",
+    "Python.grp_by.executor": "Run",
     "Python.main.executor": "Run",
     "Python.new_column.executor": "Run",
+    "Python.operations.executor": "Run",
+    "Python.practice.executor": "Run",
+    "Python.rename_col.executor": "Run",
     "Python.select.executor": "Run",
     "Python.select_name.executor": "Run",
     "Python.spark_config.executor": "Run",
     "Python.spark_session.executor": "Run",
     "Python.spark_test.executor": "Run",
+    "Python.with_col.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
