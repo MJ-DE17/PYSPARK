@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cb5b409e-5130-410c-aeb7-fe094dbef42a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DataFrames/SQL_DF.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataFrames/all_df.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataFrames/combined.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataFrames/filter_practice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataFrames/grp_by.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataFrames/practice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataFrames/rename_drop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataFrames/with_col.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PySpark SQL/Aggregation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PySpark SQL/basic_filtering.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataFrames/creation.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataFrames/creation.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +39,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Aggregation.executor": "Run",
     "Python.basci_opperations.executor": "Run",
+    "Python.basic_filtering.executor": "Run",
     "Python.combined.executor": "Run",
     "Python.count_num_studs.executor": "Run",
     "Python.creation.executor": "Run",
@@ -90,6 +85,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\F\Projees\INTERN-DE\PYSPARK\src\Spark UI" />
       <recent name="E:\F\Projees\INTERN-DE\PYSPARK" />
       <recent name="E:\F\Projees\INTERN-DE\PYSPARK\src" />
       <recent name="E:\F\Projees\INTERN-DE\PYSPARK\DataFrames" />
@@ -111,7 +107,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="E:\F\Projees\INTERN-DE\PYSPARK\src\main.py" />
+      <option name="SCRIPT_NAME" value="E:\F\Projees\INTERN-DE\PYSPARK\src\Spark UI\main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,7 +145,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src/main.py</url>
+          <url>file://$PROJECT_DIR$/src/Spark UI/main.py</url>
           <line>8</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
