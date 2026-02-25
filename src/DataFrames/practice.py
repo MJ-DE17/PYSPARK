@@ -25,3 +25,14 @@ select_df.show()
 select_dept = df.select("department")
 # print(select_dept.collect())
 select_dept.show()
+
+
+
+data = [
+    (1, "El"),
+    (2, "Mike"),
+    (3, "Dustin"),
+    (4, "Lucas"),
+    (5, "Will"),
+    (6, "Max")
+]
